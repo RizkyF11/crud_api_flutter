@@ -48,7 +48,7 @@ class _ShowPageScreenState extends State<ShowPage> {
                           children: [
                             const Gap(4),
                             Text('${isishow.nama}'),
-                            Text('${isishow.kelas}'),
+                            Text('${isishow.kelas}'), //
                         
                           ],
                         ),
